@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Undergrad at the University of Windsor, <br>I'm currently working on learning Unity, and UI/UX design <br>
+Graduate from the University of Windsor's Computer Science Bachelors Program <br>
 
 
 ## 🌐 Socials:
